@@ -1,0 +1,49 @@
+form {
+    max-width: 500px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   
+    /* background-image: url(/images/353f0358-d38c-4eb8-8ad3-c4a5ad7c351b.jpg); */
+}
+
+
+
+section {
+    margin-bottom: 20px;
+
+}
+
+p {
+    color: blue;
+    font-size: larger;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+label {
+    margin-bottom: 10px;
+    color: rgb(54, 54, 105);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+input[type="text"],
+input[type="tel"],
+input[type="number"] {
+    width: 50%;
+    height: 4px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+}
+
+/* .btn-primary {
+    background-color: rgb(230, 222, 222);
+    padding: 7px;
+    width: 20%;
+    cursor: pointer;
+} */

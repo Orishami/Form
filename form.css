@@ -1,0 +1,30 @@
+body {
+    background-color: gray;
+    background-image: url(/images/353f0358-d38c-4eb8-8ad3-c4a5ad7c351b.jpg); 
+   
+}
+
+
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+a {
+    color: lightblue;
+}
+
+a:hover {
+    background-color: gold;
+
+}
+
+div {
+    background-color: black;
+    display: inline-block;
+    border: 1px solid #ccc
+}
